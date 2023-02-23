@@ -1,0 +1,12 @@
+{
+    "001": {
+        "name": "Faca", 
+        "description": "Uma faca velha.",
+        "effect": "Nenhum"
+    },
+    "002": {
+        "name": "Pá", 
+        "description": "Uma Pá velha.",
+        "effect": "Nenhum"
+    }
+}
